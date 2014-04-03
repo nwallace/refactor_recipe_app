@@ -8,6 +8,8 @@ gem 'rails', '4.0.2'
 gem 'rails_12factor'
 gem 'rack-wwwhisper', '~> 1.0'
 
+gem 'rspec'
+
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
