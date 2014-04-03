@@ -1,17 +1,13 @@
 source 'https://rubygems.org'
 ruby '2.0.0'
 
-group :development do
-  gem 'sqlite3'
-end
+gem 'sqlite3'
 
 # Rails Gems
 gem 'rails', '4.0.2'
 gem 'rails_12factor'
 gem 'rack-wwwhisper', '~> 1.0'
 
-# Use Postgres as the database for Active Record
-gem 'pg'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
